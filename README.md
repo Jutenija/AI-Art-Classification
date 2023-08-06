@@ -11,6 +11,8 @@ assigning AI artist to its corresponding artwork, and dimensionality reduction c
 computation efforts while preserving predictive power of the models.
 
 ## Files
-ai-art-retrieval: scrape or download images from DALLE-2, Midjourney, and StableDiffusion databases
-ai-art-classfication: run classification algorithms and PCA
-ai-art-report: reported results
+`ai-art-retrieval`: scrape or download images from DALLE-2, Midjourney, and StableDiffusion databases
+
+`ai-art-classfication`: run classification algorithms and PCA
+
+`ai-art-report`: reported results
